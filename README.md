@@ -154,4 +154,5 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 None. 
 ## Authors
-purity kwamboka - [Github](https://github.com/kwamboka3 /   
+purity kwamboka - [Github](https://github.com/kwamboka3 / 
+Regina Mayeso Kakwela
